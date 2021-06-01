@@ -30,10 +30,10 @@ while (1):
 
 #----------------------------------------Eje Y del MPU6050.
     if e == 50: #Arriba.
-        pag.move(0, -10) # Cantidad de pixeles que se mueve el cursor del mouse.
+        pag.move(0, 10) # Cantidad de pixeles que se mueve el cursor del mouse.
 
     elif e == 40: #Abajo.
-        pag.move(0, 10)
+        pag.move(0, -10)
     
 #----------------------------------------Eje X del MPU6050.
     if e == 10: #Derecha.

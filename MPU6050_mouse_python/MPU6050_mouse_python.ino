@@ -11,7 +11,6 @@
 #if I2CDEV_IMPLEMENTATION == I2CDEV_ARDUINO_WIRE
 #include "Wire.h"
 #endif
-#include  "LiquidCrystal_I2C.h"
 
 MPU6050 mpu;
 #define INTERRUPT_PIN 2
@@ -185,5 +184,6 @@ void loop()
   //Serial.print("valor de Y: ");
   Serial.println(valor_y);
   //Serial.print("valor de Z: ");
-  Serial.println(valor_z);
+  //Serial.println(valor_z);
+  delay(100);
 }
