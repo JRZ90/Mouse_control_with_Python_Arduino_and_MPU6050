@@ -20,3 +20,6 @@ This is a way to control the mouse pointer and keystrokes in Windows with an ard
 ### Arduino libraries (included)
 * I2Cdev
 * MPU6050
+
+## Demo video
+[link to Youtube video](https://www.youtube.com/watch?v=THH6gRp2mJc)
