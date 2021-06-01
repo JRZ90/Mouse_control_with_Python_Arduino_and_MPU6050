@@ -23,3 +23,6 @@ This is a way to control the mouse pointer and keystrokes in Windows with an ard
 
 ## Demo video
 [link to Youtube video](https://www.youtube.com/watch?v=THH6gRp2mJc)
+
+## Connections
+![descarga](https://user-images.githubusercontent.com/73800954/120404151-1b552e80-c31c-11eb-94d2-fb48dabf25dd.jpg)
