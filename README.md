@@ -13,7 +13,7 @@ This is a way to control the mouse pointer and keystrokes in Windows with an ard
 * Python 3
 * Arduino
 
-### Python modules
+### Python libraries
 * PyAutoGUI 0.9.50
 * pyserial 3.4
 
